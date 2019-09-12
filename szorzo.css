@@ -1,0 +1,20 @@
+table, td {
+    border: 1px solid green;
+}
+
+table {
+    border-radius: 5px;
+    background-color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+td {
+    width: 30px;
+    text-align: right;
+    background-color: lightgreen;
+    border-radius: 5px;
+}
+
+body {
+    background-color: azure;
+}
